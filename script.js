@@ -1,3 +1,3 @@
-<script>
+
     console.log("helloworld")
-</script>
+
